@@ -2,8 +2,10 @@
 
 ## Projects in ARM Assembly:
 
-A calculator program
-A Whack-A-Mole game, implemented with polling
+### calculator.s:
+A calculator program.
+
+### whack_a_mole.s:
 A Whack-A-Mole game, implemented with interrupts
 
 A library implementing a complete VGA driver
